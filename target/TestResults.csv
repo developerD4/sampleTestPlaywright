@@ -1,0 +1,7 @@
+Browser/App,Environment,TCID,TEST RESULT,TIME TAKEN (in secs.),TEST DESCRIPTION,TIME STAMP
+Chromium,Winvinaya-InfoSystems-website,TC_01,FAILED,02,Verify the infosystem Home Page is opening or not,Sat Sep 06 13:53:08 IST 2025
+Chromium,Winvinaya-InfoSystems-website,TC_02,FAILED,01,Verify the About Page is opening or not,Sat Sep 06 13:53:08 IST 2025
+Chromium,Winvinaya-InfoSystems-website,TC_03,FAILED,01,Verify the Newsletters Page is opening or not,Sat Sep 06 13:53:08 IST 2025
+Chromium,Winvinaya-InfoSystems-website,TC_04,FAILED,01,Verify the Blogs Page is opening or not,Sat Sep 06 13:53:08 IST 2025
+Chromium,Winvinaya-InfoSystems-website,TC_05,FAILED,02,Verify the eBooks Page is opening or not,Sat Sep 06 13:53:08 IST 2025
+Chromium,Winvinaya-InfoSystems-website,TC_06,FAILED,01,Verify the Contact Us Page is opening or not,Sat Sep 06 13:53:08 IST 2025
